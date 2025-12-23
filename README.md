@@ -32,4 +32,23 @@ python orchestrator.py
 
 Go to: http://localhost:5000/
 
+#   Proxie Intern Assignment: Temperature Sensor Simulation + MQTT + ROS2 + Flask Dashboard  
 
+Overview 
+
+Your task is to design and implement a software-only temperature monitoring system 
+using: 
+
+● MQTT (Mosquitto or similar broker) 
+
+● ROS2 (Humble/Foxy recommended) 
+
+● Python 
+
+● Flask (for a web-based dashboard) 
+
+No physical sensors, microcontrollers, or hardware of any kind should be used. All sensor 
+data must be simulated in software. 
+
+This assignment evaluates your ability to work with robotics middleware, IoT messaging 
+and real-time data visualization. 
