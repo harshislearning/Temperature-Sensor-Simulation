@@ -53,5 +53,6 @@ data must be simulated in software.
 This assignment evaluates your ability to work with robotics middleware, IoT messaging 
 and real-time data visualization. 
 
+#   Temperature Sensor Simulation  + MQTT + ROS2 + Flask Dashboard  
 
 <img width="669" height="660" alt="Screenshot (88)" src="https://github.com/user-attachments/assets/87366cda-3365-404f-bbf5-3d907e45b6f0" />
