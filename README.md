@@ -4,6 +4,13 @@ Software only temperature monitoring pipeline: sensor simulator -> MQTT -> ROS2-
 
 ## Instructions on how to run the system & dependencies required:
 
+System Requirements: Windows 11
+
+Software Requirements: VS Code
+
+Open Zip file in VS Code and follow the steps:
+
+
 ###   Step 1 : Install Mosquitto MQTT broker on Windows 11:
 
 Download and install from the official Mosquitto site.
