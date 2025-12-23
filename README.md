@@ -1,6 +1,6 @@
 # Temperature Sensor Simulation 
 
-Software-only temperature monitoring pipeline: sensor simulator -> MQTT -> ROS2-like bridge -> Flask live dashboard.
+Software only temperature monitoring pipeline: sensor simulator -> MQTT -> ROS2-like bridge -> Flask live dashboard.
 
 ## Instructions on how to run the system & dependencies required:
 
