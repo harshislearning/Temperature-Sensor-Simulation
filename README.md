@@ -2,7 +2,7 @@
 
 Software-only temperature monitoring pipeline: sensor simulator -> MQTT -> ROS2-like bridge -> Flask live dashboard.
 
-## Instructions on how to run the system:
+## Instructions on how to run the system & dependencies required:
 
 ###   Step 1 : Install Mosquitto MQTT broker on Windows 11:
 
