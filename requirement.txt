@@ -1,0 +1,5 @@
+flask
+flask-sock
+paho-mqtt
+asyncio-mqtt
+
