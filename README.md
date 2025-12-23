@@ -20,7 +20,7 @@ python -m venv .venv
 
 ###   Step 3 : Install dependencies:
 
-pip install -r requirements.txt
+pip install -r requirement.txt
 
 
 ###   Step 4 : Start the broker :
