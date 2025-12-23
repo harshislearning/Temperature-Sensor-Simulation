@@ -59,6 +59,6 @@ and real-time data visualization.
 
 
 
-#   File format :
+#   File structure :
 
 <img width="345" height="449" alt="Screenshot (89)" src="https://github.com/user-attachments/assets/fce454a1-8a8b-4e16-bd1a-5377cc44077a" />
