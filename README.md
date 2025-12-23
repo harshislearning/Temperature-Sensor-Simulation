@@ -56,3 +56,9 @@ and real-time data visualization.
 #   Temperature Sensor Simulation  + MQTT + ROS2 + Flask Dashboard  
 
 <img width="669" height="660" alt="Screenshot (88)" src="https://github.com/user-attachments/assets/87366cda-3365-404f-bbf5-3d907e45b6f0" />
+
+
+
+#   File format :
+
+<img width="345" height="449" alt="Screenshot (89)" src="https://github.com/user-attachments/assets/fce454a1-8a8b-4e16-bd1a-5377cc44077a" />
